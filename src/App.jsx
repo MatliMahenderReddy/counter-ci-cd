@@ -7,7 +7,7 @@ export default function App() {
     <main className="container">
       <section className="counter-card">
         <p className="tag">REACT + VITE</p>
-        <h1>Counter Web App</h1>
+        <h1>Counter App</h1>
         <p className="description">My first CI/CD project</p>
         <div className="count" aria-live="polite">{count}</div>
         <div className="buttons">
